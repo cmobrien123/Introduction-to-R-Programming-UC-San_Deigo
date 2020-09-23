@@ -1,9 +1,10 @@
 # Introduction-to-R-Programming-UC-San_Deigo
 Collection of the practice problems completed as part of the UC San Diego Intro to R Programming. Posted with consent of course professor. DOES NOT INCLUDED 2 ASSIGNMENTS CONSIDERED AS TESTS FROM THE COURSE PER PROFESSOR.
 
-NOTE: Practice # does not transation to chapter number (multiple practices for some chapters). EX. practice 5 and quiz 5 relate to chapter 4
+NOTE: Practice # does not equal chapter number (multiple practices for some chapters). EX. practice 5 and quiz 5 relate to chapter 4
 
 Table of Contents:
+
   
     Chapter 1: Introduction to R    
       Practice 1, Quiz 1
